@@ -1,10 +1,12 @@
 # ParallelRefine
-# Author: Dhruv Chand, Sai Teja, SoMi Choi
+# Author: 
+	Original by Dhruv Chand, Sai Teja, SoMi Choi
+	Currently Improving by SoMi Choi
 # Open source System: 
 	1. http://hadoop.apache.org/
 	2. http://openrefine.org/
 	3. https://github.com/PaulMakepeace/refine-client-py (Open Refine Client
-)
+
 # Dataset 
 	Has 21 field that is related to crime
 	We have used from 600, 1200, .... 2,000,000 rows and
