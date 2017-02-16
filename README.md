@@ -23,9 +23,9 @@
 		a. unzip refine-client-py-master.zip(in ParallelRefine directory it has the refine-client-py-master.zip in it)
 		b. cd refine-client-py-master
 		c. sudo pip install -r requirements.txt
-		d. python setup.py test (it is okay if 2 test fails it still works) Note. OpenRefine should be running first
-		f. python setup.py build
-		e. python setup.py install
+		d. sudo python setup.py test (it is okay if 2 test fails it still works) Note. OpenRefine should be running first
+		f. sudo python setup.py build
+		e. sudo python setup.py install
 	3. Run OpenRefine in the Downloaded OpenRefine directory 
 	it should have 127.0.0.1:3333 running (Hadoop should be running too)
 	4. sh load.sh
