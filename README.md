@@ -1,5 +1,7 @@
 # ParallelRefine
-# Author: Dhruv Chand, Sai Teja, SoMi Choi
+# Author: 
+	Original by Dhruv Chand, Sai Teja, SoMi Choi
+	Currently Improving by SoMi Choi
 # Open source System: 
 	1. http://hadoop.apache.org/
 	2. http://openrefine.org/
