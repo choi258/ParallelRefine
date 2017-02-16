@@ -5,7 +5,7 @@
 # Open source System: 
 	1. http://hadoop.apache.org/
 	2. http://openrefine.org/
-	3. https://github.com/PaulMakepeace/refine-client-py (Open Refine Client
+	3. https://github.com/PaulMakepeace/refine-client-py (Open Refine Client)
 
 # Dataset 
 	Has 21 field that is related to crime
@@ -23,7 +23,7 @@
 		a. unzip refine-client-py-master.zip(in ParallelRefine directory it has the refine-client-py-master.zip in it)
 		b. cd refine-client-py-master
 		c. sudo pip install -r requirements.txt
-		d. python setup.py test (it is okay if 2 test fails it still works)
+		d. python setup.py test (it is okay if 2 test fails it still works) Note. OpenRefine should be running first
 		f. python setup.py build
 		e. python setup.py install
 	3. Run OpenRefine in the Downloaded OpenRefine directory 
